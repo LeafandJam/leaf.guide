@@ -1,6 +1,9 @@
 ---
 title: "Quote"
-date: {{ .Date }}
+date: 2025-04-17
+draft: false
+categories: ["journal"]
+weight: 2
 ---
 
 {{ $quotes := .Site.Data.daily_quotes.quotes }}
