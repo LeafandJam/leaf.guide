@@ -1,7 +1,7 @@
 ---
 title: "Spotify"
 date: 2025-04-17
-draft: false
+draft: true
 categories: ["music"]
 weight: 3
 ---
