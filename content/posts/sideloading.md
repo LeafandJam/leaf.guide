@@ -16,12 +16,9 @@ There are way to do this for free involving using a VPN to block Apple's servers
 
 >These cert's last for a year and then another must be bought
 ### Shops
-Below are two shops that have so far been legitimate:
-- [Kravasign](https://kravasign.com/purchase) (recommended)
-- [DX Sign](https://dxsign.cc/purchase) (cheaper)
+Explore the [r/sideloaded](https://reddit.com/r/sideloaded) subreddit to see what shops are currently recommended as these change often.
 
->Both are recommended however, go with Kravasign if you can, as they include revoke protection in their cheapest tier. 
->>Revoke protection means that if your certificate stops working, they'll replace it — though this is extremely rare.
+>Do not pay for a lifetime certificate as these are normally a scam.
 
 After purchasing the cert you'll need to join their discord server to download your files. It can take up to 3 days for your cert to be ready (this is an Apple limitation).
 
