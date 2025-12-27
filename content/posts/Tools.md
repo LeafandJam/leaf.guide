@@ -15,6 +15,8 @@ categories: ["tools"]
 
 ### VPN
 - [Mullvad](https://mullvad.net): The best privacy respecting VPN however it does not support port forwarding
+- [protonVPN](https://protonvpn.com/): Best privacy respecting VPN for torrenting as it does support port forwarding
+- [airVPN](https://airvpn.org/): Another good VPN for torrenting with port forwarding
 
 ### Browser Extensions 
 - [uBlock Origin](https://ublockorigin.com/): The best ad-blocker out there. It also acts as a filter which is regularly updated
