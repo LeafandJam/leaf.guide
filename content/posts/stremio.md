@@ -6,21 +6,16 @@ categories: ["movie/tv"]
 weight: 1
 ---
 
-Stremio is an app that when paired with Real-Debrid, allows you to stream almost any movie or tv show in high quality.
+> #### Breakdown and explanation of Read-Debrid and Stremio at the bottom.
 
-Real Debrid costs money but it is inexpensive and allows for much faster streaming speeds as aposed to streaming torrents. No VPN is needed to use RD as it is all through DDL. 
-  
-It torrents movies for you and puts them on their servers which is where you stream them from. This allows super fast streaming without torrent activity on your end.
-
-
-## Real Debrid
+## Step 1: Real Debrid
 
  >Real Debrid is what is used to provide media to torrentio in Stremio.
 
 1. Go to [Real-Debrid](http://real-debrid.com/?id=7783244) 
 2. Make an account and buy the service. 
 
-## Stremio
+## Step 2: Stremio
 1. Download [Stremio](https://www.stremio.com/) for your device and set it up by running the installer.
 
 2. Once installed, visit this link to install torrentio: 
@@ -35,4 +30,10 @@ It torrents movies for you and puts them on their servers which is where you str
 
 Search for your media and look for streams with ```[RD]``` at the front. These are provided from Real-Debrid. If one doesn't work, try another. You can see the quality and file size of the streams too.
 
+#### Breakdown
 
+Stremio is an app that when paired with Real-Debrid, allows you to stream almost any movie or tv show in high quality.
+
+Real Debrid costs money but it is inexpensive and allows for much faster streaming speeds as aposed to streaming torrents. No VPN is needed to use RD as it is all through DDL. 
+  
+It torrents movies for you and puts them on their servers which is where you stream them from. This allows super fast streaming without torrent activity on your end.
