@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>windows on Leaf.Guide</title>
+    <link>https://leaf.guide/categories/windows/</link>
+    <description>Recent content in windows on Leaf.Guide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://leaf.guide/categories/windows/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Windows 11</title>
+      <link>https://leaf.guide/posts/windows/</link>
+      <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://leaf.guide/posts/windows/</guid>
+      <description>Installing Windows IoT Enterprise LTS version from a USB.
+You will need an empty USB with at least 8gb of storage
+Step 1: Making a bootable USB Download the Windows 11 IoT Enterprise LTSC .iso from MassGrave The IoT Enterprise LTSC is a version of Windows that doesn&amp;rsquo;t include any bloatware and has far fewer updates by only giving the needed security ones.
+Download and run Balena Etcher Select the Windows .</description>
+    </item>
+    
+  </channel>
+</rss>

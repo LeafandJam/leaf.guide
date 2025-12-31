@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ios on Leaf.Guide</title>
+    <link>https://leaf.guide/categories/ios/</link>
+    <description>Recent content in ios on Leaf.Guide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://leaf.guide/categories/ios/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sideloading</title>
+      <link>https://leaf.guide/posts/sideloading/</link>
+      <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://leaf.guide/posts/sideloading/</guid>
+      <description>Sideloading Sideloading is the iOS equivalent of installing APK&amp;rsquo;s on Android. It allows for &amp;ldquo;sideloading&amp;rdquo; apps that are not available on the app store.
+There are way to do this for free involving using a VPN to block Apple&amp;rsquo;s servers but the easiest and most reliable method is to buy a certificate.
+Buying a Cert These cert&amp;rsquo;s last for a year and then another must be bought
+Shops Explore the r/sideloaded subreddit to see what shops are currently recommended as these change often.</description>
+    </item>
+    
+  </channel>
+</rss>

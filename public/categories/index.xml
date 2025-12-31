@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on Leaf.Guide</title>
+    <link>https://leaf.guide/categories/</link>
+    <description>Recent content in Categories on Leaf.Guide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://leaf.guide/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ios</title>
+      <link>https://leaf.guide/categories/ios/</link>
+      <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://leaf.guide/categories/ios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tools</title>
+      <link>https://leaf.guide/categories/tools/</link>
+      <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://leaf.guide/categories/tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>windows</title>
+      <link>https://leaf.guide/categories/windows/</link>
+      <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://leaf.guide/categories/windows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>movie/tv</title>
+      <link>https://leaf.guide/categories/movie/tv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://leaf.guide/categories/movie/tv/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

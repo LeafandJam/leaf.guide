@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>tools on Leaf.Guide</title>
+    <link>https://leaf.guide/categories/tools/</link>
+    <description>Recent content in tools on Leaf.Guide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://leaf.guide/categories/tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tools and Websites</title>
+      <link>https://leaf.guide/posts/tools/</link>
+      <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://leaf.guide/posts/tools/</guid>
+      <description>Some useful tools and websites. Torrents qbittorrent: The best and most commonly recommended. It is open source and light weight
+Transmission and Deluge are other open source torrent clients that are recommended
+VPN Mullvad: The best privacy respecting VPN however it does not support port forwarding protonVPN: Best privacy respecting VPN for torrenting as it does support port forwarding airVPN: Another good VPN for torrenting with port forwarding Browser Extensions uBlock Origin: The best ad-blocker out there.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -9,9 +9,7 @@ params:
     Content: |
       A collection of easy to follow guides.  
 
-      (Everything here is for educational purposes only.)  
-
-
+      (Everything here is for educational purposes only.)
 
 
   buildFuture: true

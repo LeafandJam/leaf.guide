@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Leaf.Guide</title>
+    <link>https://leaf.guide/posts/</link>
+    <description>Recent content in Posts on Leaf.Guide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://leaf.guide/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stremio &#43; Real-Debrid</title>
+      <link>https://leaf.guide/posts/stremio/</link>
+      <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://leaf.guide/posts/stremio/</guid>
+      <description>Breakdown and explanation of Read-Debrid and Stremio at the bottom. Step 1: Real Debrid Real Debrid is what is used to provide media to torrentio in Stremio.
+Go to Real-Debrid Make an account and buy the service. Step 2: Stremio Download Stremio for your device and set it up by running the installer.
+Once installed, visit this link to install torrentio: https://torrentio.strem.fun/configure
+Don&amp;rsquo;t worry about any of the fields except for Debrid Provider.</description>
+    </item>
+    
+    <item>
+      <title>Sideloading</title>
+      <link>https://leaf.guide/posts/sideloading/</link>
+      <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://leaf.guide/posts/sideloading/</guid>
+      <description>Sideloading Sideloading is the iOS equivalent of installing APK&amp;rsquo;s on Android. It allows for &amp;ldquo;sideloading&amp;rdquo; apps that are not available on the app store.
+There are way to do this for free involving using a VPN to block Apple&amp;rsquo;s servers but the easiest and most reliable method is to buy a certificate.
+Buying a Cert These cert&amp;rsquo;s last for a year and then another must be bought
+Shops Explore the r/sideloaded subreddit to see what shops are currently recommended as these change often.</description>
+    </item>
+    
+    <item>
+      <title>Tools and Websites</title>
+      <link>https://leaf.guide/posts/tools/</link>
+      <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://leaf.guide/posts/tools/</guid>
+      <description>Some useful tools and websites. Torrents qbittorrent: The best and most commonly recommended. It is open source and light weight
+Transmission and Deluge are other open source torrent clients that are recommended
+VPN Mullvad: The best privacy respecting VPN however it does not support port forwarding protonVPN: Best privacy respecting VPN for torrenting as it does support port forwarding airVPN: Another good VPN for torrenting with port forwarding Browser Extensions uBlock Origin: The best ad-blocker out there.</description>
+    </item>
+    
+    <item>
+      <title>Windows 11</title>
+      <link>https://leaf.guide/posts/windows/</link>
+      <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://leaf.guide/posts/windows/</guid>
+      <description>Installing Windows IoT Enterprise LTS version from a USB.
+You will need an empty USB with at least 8gb of storage
+Step 1: Making a bootable USB Download the Windows 11 IoT Enterprise LTSC .iso from MassGrave The IoT Enterprise LTSC is a version of Windows that doesn&amp;rsquo;t include any bloatware and has far fewer updates by only giving the needed security ones.
+Download and run Balena Etcher Select the Windows .</description>
+    </item>
+    
+  </channel>
+</rss>
